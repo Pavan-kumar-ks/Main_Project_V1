@@ -1,0 +1,5 @@
+cpe_vendor,cpe_product,cvss_base_score,description,vendor_encoded,product_encoded,predicted_severity
+code-projects,chat_system,0.0,SQL injection vulnerability allows attackers to modify database queries through the login form.,330,847,CRITICAL
+djangoproject,django,0.0,Cross-site scripting vulnerability in template rendering may allow attackers to inject scripts.,469,1342,MEDIUM
+anisha,online_shop,0.0,Local privilege escalation due to insecure file permissions in payment module.,105,3502,MEDIUM
+unknown_vendor,test_app,0.0,Buffer overflow in image parsing component allows remote code execution.,1899,-1,CRITICAL
