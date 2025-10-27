@@ -1,0 +1,6 @@
+cpe_vendor,cpe_product,cvss_base_score,vendor_encoded,product_encoded,predicted_severity
+code-projects,chat_system,6.3,330,847,MEDIUM
+djangoproject,django,7.5,469,1342,HIGH
+anisha,online_shop,3.5,105,3502,LOW
+optimizely,configured_commerce,9.1,1357,982,CRITICAL
+unknown_vendor,unknown_product,0.0,1899,6074,UNKNOWN

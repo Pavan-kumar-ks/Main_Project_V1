@@ -1,0 +1,12 @@
+cpe_vendor,cpe_product,cvss_base_score,vendor_encoded,product_encoded,predicted_severity
+unknown_vendor,ijson,0.0,1899,-1,UNKNOWN
+unknown_vendor,pandas,0.0,1899,-1,UNKNOWN
+unknown_vendor,pyarrow,0.0,1899,-1,UNKNOWN
+unknown_vendor,packaging,0.0,1899,-1,UNKNOWN
+unknown_vendor,python-dateutil,0.0,1899,-1,UNKNOWN
+unknown_vendor,orjson,0.0,1899,-1,UNKNOWN
+unknown_vendor,tqdm,0.0,1899,-1,UNKNOWN
+unknown_vendor,flask,0.0,1899,-1,UNKNOWN
+unknown_vendor,requests,0.0,1899,-1,UNKNOWN
+unknown_vendor,numpy,0.0,1899,-1,UNKNOWN
+unknown_vendor,django,0.0,1899,1342,UNKNOWN

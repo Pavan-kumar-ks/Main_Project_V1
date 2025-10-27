@@ -1,0 +1,6 @@
+job-recruitment==1.0
+chat-system==1.0
+online-eyewear-shop==1.0
+pos-inventory-system==1.0
+online-shop==1.0
+iterm2==3.5.10
